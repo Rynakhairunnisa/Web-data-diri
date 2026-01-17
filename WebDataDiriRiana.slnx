@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="foto.jpg" />
+    <File Path="index.html" />
+    <File Path="style.css" />
+  </Folder>
+  <Project Path="WebDataDiriRiana/WebDataDiriRiana.csproj" />
+</Solution>
